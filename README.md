@@ -30,7 +30,7 @@ Welcome to Number Reduction Web Application! This project is a simple web applic
 
    ```bash
    git clone https://github.com/ArthurGareginyan/number-reduction-web-app.git
-   cd number-reduction-app
+   cd number-reduction-web-app
    ```
 
 2. **Set Up the Server**
