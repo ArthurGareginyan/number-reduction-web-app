@@ -24,6 +24,23 @@ Welcome to Number Reduction Web Application! This project is a simple web applic
 - `index.html`: The HTML file containing the form for number input.
 - `process.php`: The PHP script that processes the form submission and reduces the number.
 
+## Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/ArthurGareginyan/number-reduction-web-app.git
+   cd number-reduction-app
+   ```
+
+2. **Set Up the Server**
+
+   If you are using a local server like XAMPP, place the project files in the `htdocs` directory (or the equivalent for your server setup).
+
+3. **Run the Application**
+
+   Start your web server and navigate to `http://localhost/number-reduction-web-app/index.html` in your web browser.
+
 ## Usage
 
 To use this application, follow these steps:
